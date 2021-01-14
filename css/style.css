@@ -1,0 +1,51 @@
+.logo-size img{
+    height: 50px;
+}
+.logo-size-2{
+    width:30px;
+}
+.img-size img{
+    width: 100%;
+}
+.home-icon img{
+    width: 100%;
+} 
+.cloth img{
+    height: 407px;
+    width: 303px;
+
+    margin: auto;
+    
+}
+.footer-modify{
+    border: none;
+    background-color: white;
+    display: flex;
+}
+.round-shape{
+    border-radius: 15px;
+}
+.btn-modify{
+    width: 150px;
+    border-radius: 10px;
+    margin-left: 125px;
+    background-color: #76c27e;
+    border: none;
+
+}
+.img-xmlid img{
+    width: 90%;
+    
+}
+.btn-modify-upper{
+    width: 150px;
+    height: 65px;
+    border-radius: 10px;
+    background-color: #76c27e;
+    border: none;
+
+}
+
+.bg-section{
+    background-color: #fceae8;
+}
